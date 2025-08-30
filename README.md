@@ -1,16 +1,20 @@
-## Hi there 👋
+## introduction
+- 👋 hello! my name is **Alex Martini**, i'm 22.
+- 🚀 i wish work as **web developer java back-end**.
+- 📚 actually studying **system analysis and development**!
+- 🧠 a life-long seeker of knowledge!
 
-<!--
-**alexd3vp/alexd3vp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## most familiar technologies
+techs that i'm focusing on<br><br>
+[![my gamiliar skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## others
+these are some of the technologies i've used since i started in dev universe<br><br>
+[![other skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,nodejs&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## where you can find me!  
+<div>
+  <a href="mailto:alexmartini.sc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mart-sc/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://www.instagram.com/alexd3vp/"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+</div>
