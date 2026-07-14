@@ -1,6 +1,5 @@
 ## Introduction
 - 👋 Hello, my name is **Alex Martini**, i'm 22.
-- 🚀 I wish work as **web developer java back-end**.
 - 📚 Actually studying **system analysis and development**!
 - 🧠 A life-long seeker of knowledge!
 
