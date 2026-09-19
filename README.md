@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning Java and Spring.<br>🎯 Goals: Develop robust and safe applications for an enterprise.</p>
+<p data-importer="text" align="left">📚 I'm currently learning Java and Spring.<br>🎯 Goals: Contribute with solutions for back-end systems.</p>
 
 ###
 
